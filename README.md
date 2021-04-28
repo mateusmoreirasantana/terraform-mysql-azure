@@ -3,7 +3,7 @@
 ## ESD21 - Infrastructure and Cloud Computing 
 ---------------------------------------------------------------------------------------------------------------
 
-## Exercício Aula 01
+## Exercício Aula 02
 
 ## Atividade
 >Subir uma máquina virtual no Azure, AWS ou GCP instalando o MySQL e que esteja acessível no host da máquina na porta 3306, usando Terraform.  
